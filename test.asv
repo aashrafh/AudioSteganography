@@ -23,11 +23,8 @@ audiowrite("result.wav",X,fs2);
 plot(log10(abs(fft(X))));
 sound(X, fs2);
 
-Y = linspace(0, duration_in_seconds1, number_of_samples1);
-for n = 1 : number_of_samples1
-    Y(n) = X(n)*cos(omega*n);
-end
-% sound(Y);
+for n = 1 : 
+
 % title("audio1");
 % X1 = linspace(0, duration_in_seconds1, number_of_samples1);
 % plot(X1, x1);

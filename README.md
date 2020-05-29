@@ -19,7 +19,7 @@
 
 # About
 
-Code of the second task of the Signals and Systems final project which consists of 3 main Tasks as following
+Code of the second task of the Signals and Systems final project which consists of 3 main tasks.
 
 ## Audio steganography
 

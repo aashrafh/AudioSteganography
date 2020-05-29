@@ -19,11 +19,7 @@
 
 # About
 
-> Codes of the second task of the Signals and Systems final project which consists of 3 main Tasks as following
-
-1. Echo generation and removal.
-2. Audio steganography.
-3. Image compression using DCT.
+Code of the second task of the Signals and Systems final project which consists of 3 main Tasks as following
 
 ## Audio steganography
 
@@ -32,7 +28,3 @@
 ![theMagnitudeSpectrum](https://user-images.githubusercontent.com/40190772/83164236-47880f00-a10c-11ea-80bb-575e3b902f34.jpg)
 
 </div>
-
-## License
-
-> This software is licensed under MIT License, See [License](https://github.com/AbdallahHemdan/SignalsFinal/blob/master/LICENSE) for more information ©AbdallahHemdan.
